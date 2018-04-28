@@ -1,2 +1,2 @@
 # Image_cnn
-Image classification
+Image classification of Cats and dogs using CNN
